@@ -1,0 +1,5 @@
+User-Agent: *
+Disallow: /static/
+Disallow: /stored/
+Disallow: /@/
+Disallow: /admin/
